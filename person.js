@@ -9,14 +9,3 @@ class Person {
 module.exports = {
   Person,
 };
-/*s
-x
-a
-a
-a
-a
-
-async (params) => {
-  
-}
-rs*/
