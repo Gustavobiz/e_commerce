@@ -10,13 +10,4 @@ module.exports = {
   Person,
 };
 /*s
-
-r
-r
-r
-r
-r
-s
-s
-s
 rs*/
