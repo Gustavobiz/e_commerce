@@ -9,15 +9,3 @@ class Person {
 module.exports = {
   Person,
 };
-/*
-s
-szz
-
-z
-z
-z
-z
-z
-
-s
-*/
