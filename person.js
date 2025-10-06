@@ -11,10 +11,6 @@ module.exports = {
 };
 /*
 s
-s
-s
-s
-s
 
 a
 s*/
