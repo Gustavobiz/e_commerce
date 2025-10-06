@@ -10,10 +10,6 @@ module.exports = {
   Person,
 };
 /*
-s
 
-sx
-s
-s
 s
 s*/
